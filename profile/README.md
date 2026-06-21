@@ -1,35 +1,15 @@
-# Fingdev
+Hi, I'm Emiliano.
 
-Open Source projects for Engineering students at UdelaR.
+19 years old, from Montevideo, Uruguay. I write Python for a living and spend most of my free time doing the same thing.
 
-## Our Projects
+I'm currently focused on **[DBWarden](https://github.com/emilianogandini/dbwarden)**, a SQLAlchemy-native migration library. The idea is that your models already define your schema, so they should be the source of truth for migrations too. Still iterating on it.
 
-- [fingdev.github.io](https://fingdev.github.io) - Community portal
-- [fingcomms](https://github.com/fingdev/fingcomms) - Student groups directory
-- [fingDB](https://github.com/fingdev/fingDB) - Centralized database API
-- [fingmap](https://github.com/fingdev/fingmap) - Interactive campus map
+I also lead **[LibreCourseUY](https://librecourse.uy)**, an open source organization trying to grow the OSS culture in Uruguay.
 
-## How to Start Contributing
+My stack is Python, FastAPI, SQLAlchemy, ClickHouse, Docker and PostgreSQL. I self-host everything on a VPS because I like understanding what's actually running. Arch Linux btw :D
 
-1. **Set up your SSH key** - Required for all contributions
-2. **Fork a repository** - Click the "Fork" button
-3. **Clone your fork** - `git clone https://github.com/YOUR_USERNAME/repo.git`
-4. **Create a branch** - `git checkout -b feature/your-feature`
-5. **Make changes** - Edit the code
-6. **Commit signed** - `git commit -m "feat: description"`
-7. **Push and PR** - Push to your fork and create a Pull Request
-
-## Resources
-
-- [Git Guide](https://fingdev.github.io/git)
-- [How to Learn](https://fingdev.github.io/learn)
-- [Documentation](https://fingdev.github.io/docs)
-
-## Requirements
-
-- All commits must be signed
-- Follow our commit message conventions
+I learn by building things, breaking them, and figuring out why. It's slow but it sticks.
 
 ---
 
-Made with ❤️ by the Fingdev community
+*[blog](https://blog.emiliano-gandini-outeda.uy) · [site](https://emiliano-gandini-outeda.uy) · [librecourse.uy](https://librecourse.uy)*
