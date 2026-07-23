@@ -1,6 +1,6 @@
 Hi, I'm Emiliano.
 
-19 years old, from Montevideo, Uruguay. I write Python for a living and spend most of my free time doing the same thing.
+From Montevideo, Uruguay. I write Python for a living and spend most of my free time doing the same thing.
 
 I'm currently focused on **[DBWarden](https://github.com/emiliano-go/DBWarden)**, a SQLAlchemy-native migration library. The idea is that your models already define your schema, so they should be the source of truth for migrations too. Still iterating on it.
 
