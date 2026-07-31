@@ -12,4 +12,4 @@ I learn by building things, breaking them, and figuring out why. It's slow but i
 
 ---
 
-*[blog](https://blog.emiliano-gandini-outeda.uy) · [site](https://emiliano-gandini-outeda.uy) · [librecourse.uy](https://librecourse.uy)*
+*[blog](https://blog.emiliano-go.com) · [site](https://emiliano-go.com) · [librecourse.uy](https://librecourse.uy)*
